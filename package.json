@@ -1,0 +1,30 @@
+{
+  "name": "kahaaniai",
+  "version": "1.0.0",
+  "description": "AI-powered interactive story and character chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oct-raj/KahaaniAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Oct-raj/KahaaniAI/issues"
+  },
+  "homepage": "https://github.com/Oct-raj/KahaaniAI#readme",
+  "dependencies": {
+    "lucide-react": "^1.55.0",
+    "next": "^15.5.7",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
